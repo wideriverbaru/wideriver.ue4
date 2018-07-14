@@ -1,0 +1,8 @@
+{
+	"BuildId": "a7e06be8-3ec7-4b6b-ab34-533162a59fb1",
+	"Modules": 
+	{
+		"NoesisEditor": "UE4Editor-NoesisEditor.dll",
+		"NoesisRuntime": "UE4Editor-NoesisRuntime.dll"
+	}
+}

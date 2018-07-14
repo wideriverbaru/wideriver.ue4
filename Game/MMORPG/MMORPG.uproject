@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5C92B9D0-4818-FF5C-8057-56867CE98571}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MMORPG",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "NoesisGUI",
+			"Enabled": true
+		}
+	]
+}
